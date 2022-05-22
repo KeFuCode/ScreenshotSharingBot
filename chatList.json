@@ -1,0 +1,25 @@
+{
+    "chat_number": 4,
+    "chat_list": [
+        {
+            "chat_id": "0",
+            "chat_name": "IDEAS",
+            "chat_url": "QRCode/chat0.png"
+        },
+        {
+            "chat_id": "1",
+            "chat_name": "Web3航海家",
+            "chat_url": "QRCode/chat1.png"
+        },
+        {
+            "chat_id": "2",
+            "chat_name": "Saas Notes",
+            "chat_url": "QRCode/chat2.png"
+        },
+        {
+            "chat_id": "3",
+            "chat_name": "biotech is eating the world",
+            "chat_url": "QRCode/chat3.png"
+        }
+    ]
+}

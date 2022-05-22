@@ -1,0 +1,64 @@
+{
+    "config": {
+      "wide_screen_mode": true
+    },
+    "i18n_elements": {
+      "zh_cn": [
+        {
+          "tag": "div",
+          "text": {
+            "tag": "lark_md",
+            "content": "请选择消息所属话题群："
+          },
+          "extra": {
+            "tag": "select_static",
+            "placeholder": {
+              "tag": "plain_text",
+              "content": "话题群"
+            },
+            "value": {
+              "key": "value"
+            },
+            "options": [
+              {
+                "text": {
+                  "tag": "plain_text",
+                  "content": "IDEAS"
+                },
+                "value": "1"
+              },
+              {
+                "text": {
+                  "tag": "plain_text",
+                  "content": "Web3航海家"
+                },
+                "value": "2"
+              },
+              {
+                "text": {
+                  "tag": "plain_text",
+                  "content": "Saas Notes"
+                },
+                "value": "3"
+              },
+              {
+                "text": {
+                  "tag": "plain_text",
+                  "content": "biotech is eating the world"
+                },
+                "value": "4"
+              }
+            ]
+          }
+        },
+        {
+            "tag": "img",
+            "img_key": "{}",
+            "alt": {
+              "tag": "plain_text",
+              "content": "图片"
+            }
+        }
+      ]
+    }
+}

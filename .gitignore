@@ -1,0 +1,15 @@
+# test python file
+testpy
+
+# test json file 
+temp
+
+# feishu file
+wait
+message
+
+# cache
+__pycache__/
+
+# config
+.env
